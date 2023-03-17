@@ -1,0 +1,21 @@
+/build/
+*.egg-info/
+.eggs
+/dist/
+
+# If you are using PyCharm #
+.idea
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio Code #
+.vscode/
+.history
+
+__pycache__/
+*.py[cod]
